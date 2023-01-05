@@ -1,0 +1,24 @@
+.column {
+    float: left;
+    width: 500px;
+    padding: 50px;
+    border: solid black;
+    border-width: 10px;
+    background-color: antiquewhite;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.column h2 {
+    color: blue;
+}
