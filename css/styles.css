@@ -22,3 +22,23 @@ h2 {
 .column h2 {
     color: blue;
 }
+
+
+    
+
+  
+  @media screen and (max-width: 1024px) and (min-width: 450px) {
+    .column {
+      background-color: salmon;
+      color: darkblue;
+      width: 75%;
+    }   
+  }
+  
+  @media screen and (max-width: 550px) {
+    body {
+      background-color: teal;
+      color: white
+      width: 50%;
+    }
+  }
